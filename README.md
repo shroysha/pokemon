@@ -1,5 +1,5 @@
 # pokemon
-> see code: [https://github.com/shroysha/shroysha.github.io/tree/master/pokemon](https://github.com/shroysha/shroysha.github.io/tree/master/pokemon)
+> see code: [https://github.com/shroysha/pokemon](https://github.com/shroysha/pokemon)
 
 ## Subprojects 
 1. [pokemon-app-client](pokemon-app-client)
