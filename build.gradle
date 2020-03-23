@@ -1,0 +1,23 @@
+buildscript {
+apply from: "dev.shroysha.gradle"
+
+}
+
+plugins {
+id("dev.shroysha.plugin")
+id("ear")
+
+}
+
+repositories {
+mavenCentral()
+gradlePluginPortal()
+
+}
+
+dependencies {
+deploy project(path: ":pokemon:pokemon-app-client", configuration: "archives")
+deploy project(path: ":pokemon:pokemon-ejb", configuration: "archives")
+deploy project(path: ":pokemon:pokemon-war", configuration: "archives")
+
+}
