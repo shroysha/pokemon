@@ -6,7 +6,7 @@
 1. [pokemon-war](https://github.com/shroysha/pokemon-war)
 
 ## Description
-null
+Pokemon EAR
 
 ### Tags
 [EAR]
